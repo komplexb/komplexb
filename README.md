@@ -13,6 +13,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Triggering Vue UI Updates from Electron's Main Process](http://blog.byronbuckley.com/triggering-ui-actions-updates-from-electron-s-main-process)
+- [How to schedule a daily task in an Electron app](http://blog.byronbuckley.com/how-to-schedule-a-daily-task-in-an-electron-app)
+- [What I learned when gh-pages wouldn't work](http://blog.byronbuckley.com/what-i-learned-when-ghpages-wouldnt-work)
+- [#a11y-ing up byronbuckley.com](http://blog.byronbuckley.com/a11ying-up-my-personal-website)
+- [Front-end Dev Tools](http://blog.byronbuckley.com/frontend-dev-tools)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
