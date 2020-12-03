@@ -2,13 +2,15 @@
 <h3 align="center">An experienced Frontend Developer based in Sydney, Australia</h3>
 
 
-💻 I’m currently playing with **serverless technologies** to build [Notifyer Cron](https://github.com/komplexb/notifyer-cron),  
+💻 I’m currently playing with **serverless technologies** to build [Notifyer Cron](https://github.com/komplexb/notifyer-cron).  
 
-🤝 I'm available for new opportunities. Learn more about my experiences: [resume.byronbuckley.com](resume.byronbuckley.com).
+🤝 I'm currently available for new opportunities.
+
+📝 Learn more about my experiences: [resume.byronbuckley.com](resume.byronbuckley.com).
 
 💬 Ask me about **Front-end Development, Vue JS, Contentful, and Shopify Headless Commerce**  
 
-⚡ Fun fact **I like running, and basketball.**
+⚡ Fun facts: **I like running, and basketball.**
 
 ### Blogs posts
 
@@ -34,13 +36,13 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 </p>
-<!-- <p>
-<img src="https://img.shields.io/badge/Atom-66595C
-?style=for-the-badge&logo=atom&logoColor=white">
-<img src="https://img.shields.io/badge/vs_code-007ACC
-?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<p>
+<img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
 <img src="https://img.shields.io/badge/Developer_Edition-0060df?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox Developer Edition">
-</p> -->
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komplexb&show_icons=true&theme=cobalt&locale=en&layout=compact&count_private=true" alt="komplexb" /></p>
 
