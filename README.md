@@ -6,7 +6,7 @@
 
 🤝 I'm currently available for new opportunities.
 
-📝 Learn more about my experiences: [resume.byronbuckley.com](resume.byronbuckley.com).
+📝 Learn more about my experiences: [resume.byronbuckley.com](https://resume.byronbuckley.com).
 
 💬 Ask me about **Front-end Development, Vue JS, Contentful, and Shopify Headless Commerce**  
 
